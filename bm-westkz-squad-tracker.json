@@ -72,6 +72,12 @@
     "userIcon": ""
   },
   {
+    "name": "Catote",
+    "allyCode": "862389537",
+    "discordId": "",
+    "userIcon": ":flag_dk:"
+  },
+  {
     "name": "Corran Horn",
     "allyCode": "491993564",
     "discordId": "",
@@ -322,6 +328,12 @@
     "allyCode": "545575754",
     "discordId": "",
     "userIcon": ""
+  },
+  {
+    "name": "Lanval",
+    "allyCode": "267449147",
+    "discordId": "593229461437284367",
+    "userIcon": ":flag_ca:"
   },
   {
     "name": "Lyani",

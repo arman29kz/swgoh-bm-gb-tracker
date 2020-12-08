@@ -132,6 +132,12 @@
     "userIcon": ""
   },
   {
+    "name": "DarthGrogu",
+    "allyCode": "727245453",
+    "tagIdOnDrop": "389901425238474754",
+    "userIcon": ":flag_gb:"
+  },
+  {
     "name": "DarthKenobi",
     "allyCode": "611172831",
     "tagIdOnDrop": "511220623465381899",
@@ -351,12 +357,6 @@
     "name": "Markus1700",
     "allyCode": "836967921",
     "tagIdOnDrop": "",
-    "userIcon": ""
-  },
-  {
-    "name": "Matty P",
-    "allyCode": "727245453",
-    "tagIdOnDrop": "389901425238474754",
     "userIcon": ""
   },
   {

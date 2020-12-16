@@ -33,7 +33,8 @@
     "name": "Crocop",
     "allyCode": "753231343",
     "tagIdOnDrop": "",
-    "userIcon": ":crossed_swords:"
+    "userIcon": ":crossed_swords:",
+    "tagIdOnClimb": "&788830718096703489"
   },
   {
     "name": "DarkMatter",
@@ -111,19 +112,22 @@
     "name": "Silvester",
     "allyCode": "137724599",
     "tagIdOnDrop": "",
-    "userIcon": ":crossed_swords:"
+    "userIcon": ":crossed_swords:",
+    "tagIdOnClimb": "&788831210003496960"
   },
   {
     "name": "Son of Inox",
     "allyCode": "769389875",
     "tagIdOnDrop": "",
-    "userIcon": ":crossed_swords:"
+    "userIcon": ":crossed_swords:",
+    "tagIdOnClimb": "&788831281067589662"
   },
   {
     "name": "steubel",
     "allyCode": "134164139",
     "tagIdOnDrop": "",
-    "userIcon": ":crossed_swords:"
+    "userIcon": ":crossed_swords:",
+    "tagIdOnClimb": "&788831357295263814"
   },
   {
     "name": "Unmanageable",

@@ -36,12 +36,6 @@
     "userIcon": ":flag_fr:"
   },
   {
-    "name": "Crust",    
-    "allyCode": "555372394",
-    "tagIdOnDrop": "426210945937833986",
-    "userIcon": ":flag_us:"
-  },
-  {
     "name": "DarthTomas",    
     "allyCode": "636659365",
     "tagIdOnDrop": "473303693463257090",
@@ -60,24 +54,6 @@
     "userIcon": ":flag_fr:"
   },
   {
-    "name": "HLG",    
-    "allyCode": "527759877",
-    "tagIdOnDrop": "304983853246840834",
-    "userIcon": ":flag_fr:"
-  },
-  {
-    "name": "Hugisek",    
-    "allyCode": "567444254",
-    "tagIdOnDrop": "",
-    "userIcon": ""
-  },
-  {
-    "name": "JarJars Ding",    
-    "allyCode": "553956351",
-    "tagIdOnDrop": "573817034173972482",
-    "userIcon": ":flag_de:"
-  },
-  {
     "name": "Khrizboh",    
     "allyCode": "124123765",
     "tagIdOnDrop": "428266049734049798",
@@ -88,12 +64,6 @@
     "allyCode": "844694227",
     "tagIdOnDrop": "",
     "userIcon": ""
-  },
-  {
-    "name": "LoD Dudz",    
-    "allyCode": "792383282",
-    "tagIdOnDrop": "606136227208626196",
-    "userIcon": ":flag_de:"
   },
   {
     "name": "Mara JadeBele",    
@@ -160,12 +130,6 @@
     "allyCode": "161369463",
     "tagIdOnDrop": "553315629067796485",
     "userIcon": ":flag_us:"
-  },
-  {
-    "name": "TheCard",    
-    "allyCode": "542633541",
-    "tagIdOnDrop": "",
-    "userIcon": ""
   },
   {
     "name": "TheGreatSupremeLeaderBinks",

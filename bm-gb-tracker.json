@@ -24,12 +24,6 @@
     "userIcon": ""
   },
   {
-    "name": "Brodiaga",
-    "allyCode": "251833627",
-    "tagIdOnDrop": "746325947673870426",
-    "userIcon": ""
-  },
-  {
     "name": "Catlg",
     "allyCode": "957363158",
     "tagIdOnDrop": "376022899519127553",
@@ -117,6 +111,12 @@
     "name": "Mickart",
     "allyCode": "725284672",
     "tagIdOnDrop": "746379403583291463",
+    "userIcon": ""
+  },
+  {
+    "name": "MrAir",
+    "allyCode": "144571892",
+    "tagIdOnDrop": "439338211173466122",
     "userIcon": ""
   },
   {

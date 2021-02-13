@@ -330,16 +330,22 @@
     "userIcon": ""
   },
   {
+    "name": "Lanval",
+    "allyCode": "267449147",
+    "tagIdOnDrop": "593229461437284367",
+    "userIcon": ":flag_ca:"
+  },
+  {
     "name": "LaoZ",
     "allyCode": "545575754",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
   {
-    "name": "Lanval",
-    "allyCode": "267449147",
-    "tagIdOnDrop": "593229461437284367",
-    "userIcon": ":flag_ca:"
+    "name": "Lukaku Sky",
+    "allyCode": "224159528",
+    "tagIdOnDrop": "",
+    "userIcon": ""
   },
   {
     "name": "Lyani",

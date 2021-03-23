@@ -24,15 +24,15 @@
     "userIcon": ""
   },
   {
-    "name": "DART HUMUS",
-    "allyCode": "948692626",
-    "tagIdOnDrop": "698604542656380989",
-    "userIcon": ""
-  },
-  {
     "name": "Dargal",
     "allyCode": "795553458",
     "tagIdOnDrop": "470237486103265292",
+    "userIcon": ""
+  },
+  {
+    "name": "DART HUMUS",
+    "allyCode": "948692626",
+    "tagIdOnDrop": "698604542656380989",
     "userIcon": ""
   },
   {
@@ -126,6 +126,12 @@
     "userIcon": ""
   },
   {
+    "name": "palladin",
+    "allyCode": "783977947",
+    "tagIdOnDrop": "718093730942550050",
+    "userIcon": ""
+  },
+  {
     "name": "PalPalych",
     "allyCode": "333336739",
     "tagIdOnDrop": "700813797744574595",
@@ -141,6 +147,12 @@
     "name": "priroda",
     "allyCode": "866571951",
     "tagIdOnDrop": "724271555781197855",
+    "userIcon": ""
+  },
+  {
+    "name": "RagesLik",
+    "allyCode": "566337625",
+    "tagIdOnDrop": "274603511440736256",
     "userIcon": ""
   },
   {
@@ -195,12 +207,6 @@
     "name": "Totenkopff",
     "allyCode": "887788853",
     "tagIdOnDrop": "760039672424038411",
-    "userIcon": ""
-  },
-  {
-    "name": "Valerich",
-    "allyCode": "637576967",
-    "tagIdOnDrop": "355288580156948491",
     "userIcon": ""
   },
   {

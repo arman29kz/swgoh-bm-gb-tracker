@@ -139,6 +139,12 @@
     "userIcon": ":flag_au:"
   },
   {
+    "name": "SupremeLeaderGonk",
+    "allyCode": "632194469",
+    "tagIdOnDrop": "599308810430971904",
+    "userIcon": ":flag_ca:"
+  },
+  {
     "name": "Syndulla",
     "allyCode": "754447966",
     "tagIdOnDrop": "376329284828135425",
@@ -149,12 +155,6 @@
     "allyCode": "161369463",
     "tagIdOnDrop": "553315629067796485",
     "userIcon": ":flag_us:"
-  },
-  {
-    "name": "TheGreatSupremeLeaderBinks",
-    "allyCode": "632194469",
-    "tagIdOnDrop": "418155336323825664",
-    "userIcon": ":flag_ca:"
   },
   {
     "name": "Thorskrieger",    

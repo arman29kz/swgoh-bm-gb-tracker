@@ -44,12 +44,6 @@
     "tagIdOnClimb": "&788830718096703489"
   },
   {
-    "name": "DarkMatter",
-    "allyCode": "793875245",
-    "tagIdOnDrop": "534389291137237004",
-    "userIcon": ":flag_gb:"
-  },
-  {
     "name": "Dart Sanich",
     "allyCode": "567789562",
     "tagIdOnDrop": "444193452243025920",
@@ -97,6 +91,12 @@
     "allyCode": "237769766",
     "tagIdOnDrop": "575801602716467239",
     "userIcon": ":flag_us:"
+  },
+  {
+    "name": "Œ DarkMatter",
+    "allyCode": "793875245",
+    "tagIdOnDrop": "534389291137237004",
+    "userIcon": ":flag_gb:"
   },
   {
     "name": "Psparrowdactyl",

@@ -28,6 +28,13 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "bananakin",
+    "allyCode": "529191692",
+    "tagIdOnDrop": "468509440807796749",
+    "userIcon": ":flag_it:",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "Barrix",
     "allyCode": "525964522",
     "tagIdOnDrop": "417134427110375469",
@@ -39,6 +46,13 @@
     "allyCode": "828279636",
     "tagIdOnDrop": "",
     "userIcon": ":united_nations:",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Breske",
+    "allyCode": "253172767",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
     "tagIdOnClimb": ""
   },
   {
@@ -95,13 +109,6 @@
     "allyCode": "166293818",
     "tagIdOnDrop": "551507686072516608",
     "userIcon": ":flag_de:",
-    "tagIdOnClimb": ""
-  },
-  {
-    "name": "DarkMatter",
-    "allyCode": "793875245",
-    "tagIdOnDrop": "534389291137237004",
-    "userIcon": ":flag_gb:",
     "tagIdOnClimb": ""
   },
   {
@@ -252,13 +259,6 @@
     "tagIdOnClimb": "&824735524904239159"
   },
   {
-    "name": "kingdellabanana",
-    "allyCode": "529191692",
-    "tagIdOnDrop": "468509440807796749",
-    "userIcon": ":flag_it:",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "Lanval",
     "allyCode": "267449147",
     "tagIdOnDrop": "593229461437284367",
@@ -298,6 +298,13 @@
     "allyCode": "645331225",
     "tagIdOnDrop": "",
     "userIcon": ":united_nations:",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Œ DarkMatter",
+    "allyCode": "793875245",
+    "tagIdOnDrop": "534389291137237004",
+    "userIcon": ":flag_gb:",
     "tagIdOnClimb": ""
   },
   {
@@ -410,6 +417,13 @@
     "allyCode": "629314171",
     "tagIdOnDrop": "",
     "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Slayer51582",
+    "allyCode": "448311651",
+    "tagIdOnDrop": "",
+    "userIcon": ":united_nations:",
     "tagIdOnClimb": ""
   },
   {

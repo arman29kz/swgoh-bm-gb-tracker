@@ -44,10 +44,23 @@
     "tagIdOnClimb": "&788830718096703489"
   },
   {
+    "name": "Œ DarkMatter",
+    "allyCode": "793875245",
+    "tagIdOnDrop": "534389291137237004",
+    "userIcon": ":flag_gb:"
+  },
+  {
     "name": "Dart Sanich",
     "allyCode": "567789562",
     "tagIdOnDrop": "444193452243025920",
     "userIcon": ":flag_ru:"
+  },
+  {
+    "name": "Ethan",
+    "allyCode": "833423514",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": ""
   },
   {
     "name": "GG3gotHate",
@@ -87,16 +100,17 @@
     "userIcon": ":flag_pl:"
   },
   {
+    "name": "musi1kanobi",
+    "allyCode": "337863486",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "Oberon 99XJZ",
     "allyCode": "237769766",
     "tagIdOnDrop": "575801602716467239",
     "userIcon": ":flag_us:"
-  },
-  {
-    "name": "Œ DarkMatter",
-    "allyCode": "793875245",
-    "tagIdOnDrop": "534389291137237004",
-    "userIcon": ":flag_gb:"
   },
   {
     "name": "Psparrowdactyl",

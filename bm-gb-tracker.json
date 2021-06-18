@@ -30,12 +30,6 @@
     "userIcon": ""
   },
   {
-    "name": "Dargal",
-    "allyCode": "795553458",
-    "tagIdOnDrop": "470237486103265292",
-    "userIcon": ""
-  },
-  {
     "name": "DarkFenix",
     "allyCode": "361873988",
     "tagIdOnDrop": "489876665548144650",
@@ -66,6 +60,12 @@
     "userIcon": ""
   },
   {
+    "name": "GandalfofRivea",
+    "allyCode": "686838479",
+    "tagIdOnDrop": "521315880907440159",
+    "userIcon": ""
+  },
+  {
     "name": "Iamtheshadow",
     "allyCode": "834361798",
     "tagIdOnDrop": "344179351421714445",
@@ -84,21 +84,9 @@
     "userIcon": ""
   },
   {
-    "name": "Kreol",
-    "allyCode": "954758862",
-    "tagIdOnDrop": "552220986964049940",
-    "userIcon": ""
-  },
-  {
     "name": "LOLeg1988",
     "allyCode": "283731821",
     "tagIdOnDrop": "354590072441536512",
-    "userIcon": ""
-  },
-  {
-    "name": "Marat",
-    "allyCode": "657886281",
-    "tagIdOnDrop": "747075143146143745",
     "userIcon": ""
   },
   {
@@ -156,12 +144,6 @@
     "userIcon": ""
   },
   {
-    "name": "RagesLik",
-    "allyCode": "566337625",
-    "tagIdOnDrop": "274603511440736256",
-    "userIcon": ""
-  },
-  {
     "name": "Rangor Jinn",
     "allyCode": "338941953",
     "tagIdOnDrop": "749146833221320714",
@@ -177,12 +159,6 @@
     "name": "SenyA",
     "allyCode": "362366535",
     "tagIdOnDrop": "617362963304677413",
-    "userIcon": ""
-  },
-  {
-    "name": "ShustriyOleg",
-    "allyCode": "685199833",
-    "tagIdOnDrop": "699467496364965898",
     "userIcon": ""
   },
   {
@@ -252,12 +228,6 @@
     "userIcon": ""
   },
   {
-    "name": "Лин Орк",
-    "allyCode": "425934759",
-    "tagIdOnDrop": "746096482909814804",
-    "userIcon": ""
-  },
-  {
     "name": "Макс",
     "allyCode": "132263923",
     "tagIdOnDrop": "441148959281381377",
@@ -285,12 +255,6 @@
     "name": "Ядерная Raketa",
     "allyCode": "619821838",
     "tagIdOnDrop": "698863419801206894",
-    "userIcon": ""
-  },
-  {
-    "name": "ярик",
-    "allyCode": "485579367",
-    "tagIdOnDrop": "746081349726634055",
     "userIcon": ""
   }
 ]

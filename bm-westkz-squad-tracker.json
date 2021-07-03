@@ -420,6 +420,13 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "Sky walker",
+    "allyCode": "711974931",
+    "tagIdOnDrop": "626372040433336320",
+    "userIcon": ":flag_by:",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "Skyfawker",
     "allyCode": "629314171",
     "tagIdOnDrop": "",

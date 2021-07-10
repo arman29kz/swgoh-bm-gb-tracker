@@ -84,6 +84,12 @@
     "userIcon": ""
   },
   {
+    "name": "EsurieT",
+    "allyCode": "861736833",
+    "tagIdOnDrop": "418798815571738628",
+    "userIcon": ""
+  },
+  {
     "name": "EtenHant",
     "allyCode": "688365422",
     "tagIdOnDrop": "191522844956426243",
@@ -96,9 +102,21 @@
     "userIcon": ""
   },
   {
-    "name": "GandalfofRivea",
-    "allyCode": "686838479",
-    "tagIdOnDrop": "521315880907440159",
+    "name": "Ghost",
+    "allyCode": "844913216",
+    "tagIdOnDrop": "401245282735751168",
+    "userIcon": ""
+  },
+  {
+    "name": "grandadmiralthrawn",
+    "allyCode": "174261351",
+    "tagIdOnDrop": "276394812423405569",
+    "userIcon": ""
+  },
+  {
+    "name": "grenader",
+    "allyCode": "153865737",
+    "tagIdOnDrop": "861930969296535552",
     "userIcon": ""
   },
   {
@@ -108,9 +126,9 @@
     "userIcon": ""
   },
   {
-    "name": "ILYA MAK",
-    "allyCode": "668585818",
-    "tagIdOnDrop": "693896637839441980",
+    "name": "Igor",
+    "allyCode": "897212387",
+    "tagIdOnDrop": "640428126543020042",
     "userIcon": ""
   },
   {
@@ -120,9 +138,21 @@
     "userIcon": ""
   },
   {
+    "name": "Lex Valentain",
+    "allyCode": "957588275",
+    "tagIdOnDrop": "716806068654702603",
+    "userIcon": ""
+  },
+  {
     "name": "LOLeg1988",
     "allyCode": "283731821",
     "tagIdOnDrop": "354590072441536512",
+    "userIcon": ""
+  },
+  {
+    "name": "Lvzifer",
+    "allyCode": "698225918",
+    "tagIdOnDrop": "322396855931502592",
     "userIcon": ""
   },
   {
@@ -132,10 +162,16 @@
     "userIcon": ":dancer:"
   },
   {
-    "name": "MDLR Ordo MortuiS",
-    "allyCode": "866141579",
-    "tagIdOnDrop": "268384163755720705",
-    "userIcon": ":bell:"
+    "name": "MASSA82",
+    "allyCode": "418729247",
+    "tagIdOnDrop": "305048055516758018",
+    "userIcon": ""
+  },
+  {
+    "name": "MaxBench",
+    "allyCode": "358653449",
+    "tagIdOnDrop": "684790050881536045",
+    "userIcon": ""
   },
   {
     "name": "Meeraval Marnath",

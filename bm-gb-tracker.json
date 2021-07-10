@@ -342,6 +342,12 @@
     "userIcon": ""
   },
   {
+    "name": "TOPT",
+    "allyCode": "743168798",
+    "tagIdOnDrop": "705801632784318553",
+    "userIcon": ""
+  },
+  {
     "name": "Torin Woodyy",
     "allyCode": "855396534",
     "tagIdOnDrop": "746108005761941587",
@@ -354,22 +360,46 @@
     "userIcon": ""
   },
   {
+    "name": "Trufra Cadav",
+    "allyCode": "728797898",
+    "tagIdOnDrop": "618424460491620352",
+    "userIcon": ""
+  },
+  {
+    "name": "Val",
+    "allyCode": "249328688",
+    "tagIdOnDrop": "641254584236638208",
+    "userIcon": ""
+  },
+  {
+    "name": "VITO",
+    "allyCode": "785568667",
+    "tagIdOnDrop": "437929679895396357",
+    "userIcon": ""
+  },
+  {
     "name": "WHI",
     "allyCode": "296395261",
     "tagIdOnDrop": "695140454995591188",
     "userIcon": ""
   },
   {
-    "name": "Дарт Ревень",
-    "allyCode": "927678143",
-    "tagIdOnDrop": "504370814578196492",
+    "name": "Woltcman",
+    "allyCode": "979924637",
+    "tagIdOnDrop": "542008258655944705",
     "userIcon": ""
   },
   {
-    "name": "Дарт Яга",
-    "allyCode": "269854433",
-    "tagIdOnDrop": "488742616112955392",
+    "name": "Вероника",
+    "allyCode": "842881316",
+    "tagIdOnDrop": "730464942217756823",
     "userIcon": ":dancer:"
+  },
+  {
+    "name": "Владимир",
+    "allyCode": "442266152",
+    "tagIdOnDrop": "684111210995646488",
+    "userIcon": ""
   },
   {
     "name": "ЕСА",
@@ -384,9 +414,15 @@
     "userIcon": ""
   },
   {
-    "name": "Макс",
-    "allyCode": "132263923",
-    "tagIdOnDrop": "441148959281381377",
+    "name": "Мертвяч",
+    "allyCode": "514968358",
+    "tagIdOnDrop": "621275784266514432",
+    "userIcon": ""
+  },
+  {
+    "name": "Отец гаскойн",
+    "allyCode": "976538213",
+    "tagIdOnDrop": "300664754177835008",
     "userIcon": ""
   },
   {
@@ -396,9 +432,15 @@
     "userIcon": ""
   },
   {
-    "name": "папатут",
-    "allyCode": "248231811",
-    "tagIdOnDrop": "565986051387031566",
+    "name": "Риджи",
+    "allyCode": "712476466",
+    "tagIdOnDrop": "376063354965458948",
+    "userIcon": ""
+  },
+  {
+    "name": "ЦАРЬ",
+    "allyCode": "756589582",
+    "tagIdOnDrop": "860475224058888192",
     "userIcon": ""
   },
   {

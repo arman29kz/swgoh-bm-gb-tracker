@@ -102,6 +102,12 @@
     "userIcon": ""
   },
   {
+    "name": "Emperyal",
+    "allyCode": "152585642",
+    "tagIdOnDrop": "838330600573632522",
+    "userIcon": ""
+  },
+  {
     "name": "EsurieT",
     "allyCode": "861736833",
     "tagIdOnDrop": "418798815571738628",
@@ -165,6 +171,12 @@
     "name": "JunkoZane",
     "allyCode": "716655561",
     "tagIdOnDrop": "641199160900452353",
+    "userIcon": ""
+  },
+  {
+    "name": "Kain",
+    "allyCode": "895872567",
+    "tagIdOnDrop": "368427155337773067",
     "userIcon": ""
   },
   {
@@ -321,6 +333,12 @@
     "name": "S17",
     "allyCode": "343348893",
     "tagIdOnDrop": "471586257487659031",
+    "userIcon": ""
+  },
+  {
+    "name": "SageGloom",
+    "allyCode": "163585992",
+    "tagIdOnDrop": "461094818421145600",
     "userIcon": ""
   },
   {

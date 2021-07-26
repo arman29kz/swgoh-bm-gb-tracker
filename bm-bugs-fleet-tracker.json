@@ -141,6 +141,7 @@
   },
   {
     "name": "TheGreatSupremeLeaderBinks",
+    "skip": "true",
     "allyCode": "632194469",
     "tagIdOnDrop": "418155336323825664",
     "userIcon": ":flag_us:"
@@ -152,7 +153,8 @@
     "userIcon": ":flag_kr:"
   },
   {
-    "name": "The Chungus",    
+    "name": "The Chungus",
+    "skip": "true",
     "allyCode": "161369463",
     "tagIdOnDrop": "553315629067796485",
     "userIcon": ":flag_us:"

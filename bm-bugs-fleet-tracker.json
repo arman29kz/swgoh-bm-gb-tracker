@@ -10,7 +10,7 @@
     "name": "ak47",
     "allyCode": "812358224",
     "tagIdOnDrop": "",
-    "userIcon": ":crossed_swords:",
+    "userIcon": ":pirate_flag:",
     "tagIdOnClimb": "&792053685566832651"
   },
   {
@@ -174,5 +174,12 @@
     "allyCode": "875992967",
     "tagIdOnDrop": "738995516410560664",
     "userIcon": ":flag_us:"
+  },
+  {
+    "name": "Wollowitz",
+    "allyCode": "845621817",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": "&869238176559022081"
   }
 ]

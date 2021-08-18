@@ -110,7 +110,8 @@
     "userIcon": ":flag_fr:"
   },
   {
-    "name": "Muad'Dib",    
+    "name": "Muad'Dib",
+    "skip": "true",
     "allyCode": "749278485",
     "tagIdOnDrop": "590997682328305702",
     "userIcon": ":flag_de:"
@@ -180,8 +181,8 @@
   {
     "name": "Wollowitz",
     "allyCode": "845621817",
-    "tagIdOnDrop": "",
-    "userIcon": ":pirate_flag:",
-    "tagIdOnClimb": "&869238176559022081"
+    "tagIdOnDrop": "100263265778532352",
+    "userIcon": ":flag_nl:",
+    "tagIdOnClimb": ""
   }
 ]

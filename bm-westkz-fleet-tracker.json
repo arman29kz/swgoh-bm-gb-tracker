@@ -88,6 +88,12 @@
     "userIcon": ":flag_fr:"
   },
   {
+    "name": "Hackyum",
+    "allyCode": "264484858",
+    "tagIdOnDrop": "644009516287131691",
+    "userIcon": ":flag_us:"
+  },
+  {
     "name": "Hankestein",
     "allyCode": "729385641",
     "tagIdOnDrop": "264209511529709568",
@@ -162,12 +168,6 @@
     "name": "Unmanageable",
     "allyCode": "736412154",
     "tagIdOnDrop": "176200078783021057",
-    "userIcon": ":flag_us:"
-  },
-  {
-    "name": "yurky",
-    "allyCode": "264484858",
-    "tagIdOnDrop": "506550530185887745",
     "userIcon": ":flag_us:"
   }
 ]

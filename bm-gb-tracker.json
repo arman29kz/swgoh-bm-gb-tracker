@@ -1,5 +1,11 @@
 [
   {
+    "name": "007",
+    "allyCode": "111479293",
+    "tagIdOnDrop": "829388406291038218",
+    "userIcon": ""
+  },
+  {
     "name": "addyduss",
     "allyCode": "449284451",
     "tagIdOnDrop": "494869438143660032",
@@ -78,9 +84,21 @@
     "userIcon": ""
   },
   {
+    "name": "Dart Pavel",
+    "allyCode": "554264443",
+    "tagIdOnDrop": "671108186341638144",
+    "userIcon": ""
+  },
+  {
     "name": "Dart Soberano",
     "allyCode": "149296981",
     "tagIdOnDrop": "779206969490669618",
+    "userIcon": ""
+  },
+  {
+    "name": "Dart Vaha",
+    "allyCode": "986893684",
+    "tagIdOnDrop": "882713795544383489",
     "userIcon": ""
   },
   {
@@ -99,12 +117,6 @@
     "name": "diVas",
     "allyCode": "126269273",
     "tagIdOnDrop": "431753887989628928",
-    "userIcon": ""
-  },
-  {
-    "name": "El Shagan",
-    "allyCode": "381547291",
-    "tagIdOnDrop": "746641211141521529",
     "userIcon": ""
   },
   {
@@ -162,6 +174,12 @@
     "userIcon": ""
   },
   {
+    "name": "iFish",
+    "allyCode": "826554895",
+    "tagIdOnDrop": "882919289475190804",
+    "userIcon": ""
+  },
+  {
     "name": "Igor",
     "allyCode": "897212387",
     "tagIdOnDrop": "640428126543020042",
@@ -192,6 +210,18 @@
     "userIcon": ""
   },
   {
+    "name": "Kilum Natta",
+    "allyCode": "899935548",
+    "tagIdOnDrop": "792313270613966848",
+    "userIcon": ""
+  },
+  {
+    "name": "KUPIOLLIKUH",
+    "allyCode": "678653299",
+    "tagIdOnDrop": "632908130136621087",
+    "userIcon": ""
+  },
+  {
     "name": "Lex Valentain",
     "allyCode": "957588275",
     "tagIdOnDrop": "716806068654702603",
@@ -201,12 +231,6 @@
     "name": "LOLeg1988",
     "allyCode": "283731821",
     "tagIdOnDrop": "354590072441536512",
-    "userIcon": ""
-  },
-  {
-    "name": "Lvzifer",
-    "allyCode": "698225918",
-    "tagIdOnDrop": "322396855931502592",
     "userIcon": ""
   },
   {
@@ -225,6 +249,12 @@
     "name": "MaxBench",
     "allyCode": "358653449",
     "tagIdOnDrop": "684790050881536045",
+    "userIcon": ""
+  },
+  {
+    "name": "MaxiBox2",
+    "allyCode": "319852129",
+    "tagIdOnDrop": "882709411645259807",
     "userIcon": ""
   },
   {
@@ -258,15 +288,15 @@
     "userIcon": ""
   },
   {
-    "name": "Necromorph",
-    "allyCode": "876894271",
-    "tagIdOnDrop": "356004270702723082",
+    "name": "MyTa6oP",
+    "allyCode": "659328515",
+    "tagIdOnDrop": "529587345058430982",
     "userIcon": ""
   },
   {
-    "name": "NetBas",
-    "allyCode": "668459796",
-    "tagIdOnDrop": "603829917594943488",
+    "name": "Necromorph",
+    "allyCode": "876894271",
+    "tagIdOnDrop": "356004270702723082",
     "userIcon": ""
   },
   {
@@ -285,6 +315,12 @@
     "name": "Paher",
     "allyCode": "513519835",
     "tagIdOnDrop": "692474768179331196",
+    "userIcon": ""
+  },
+  {
+    "name": "Palkanych",
+    "allyCode": "337951333",
+    "tagIdOnDrop": "683572710806388746",
     "userIcon": ""
   },
   {
@@ -318,12 +354,6 @@
     "userIcon": ""
   },
   {
-    "name": "Rakel",
-    "allyCode": "915295663",
-    "tagIdOnDrop": "694461078091989022",
-    "userIcon": ""
-  },
-  {
     "name": "Rangor Jinn",
     "allyCode": "338941953",
     "tagIdOnDrop": "749146833221320714",
@@ -333,6 +363,12 @@
     "name": "RealColonel",
     "allyCode": "659645678",
     "tagIdOnDrop": "562207749337907231",
+    "userIcon": ""
+  },
+  {
+    "name": "Rhil Margos",
+    "allyCode": "671661842",
+    "tagIdOnDrop": "878577916974338098",
     "userIcon": ""
   },
   {
@@ -351,6 +387,12 @@
     "name": "SageGloom",
     "allyCode": "163585992",
     "tagIdOnDrop": "461094818421145600",
+    "userIcon": ""
+  },
+  {
+    "name": "Scooter111",
+    "allyCode": "559218551",
+    "tagIdOnDrop": "773751717246402571",
     "userIcon": ""
   },
   {
@@ -387,12 +429,6 @@
     "name": "Snowball",
     "allyCode": "373256827",
     "tagIdOnDrop": "",
-    "userIcon": ""
-  },
-  {
-    "name": "Sofckntiredofthisgame",
-    "allyCode": "332762331",
-    "tagIdOnDrop": "841694836582645780",
     "userIcon": ""
   },
   {
@@ -474,21 +510,27 @@
     "userIcon": ""
   },
   {
+    "name": "viRUS 1886",
+    "allyCode": "262964429",
+    "tagIdOnDrop": "329600897170800642",
+    "userIcon": ""
+  },
+  {
     "name": "VITO",
     "allyCode": "785568667",
     "tagIdOnDrop": "437929679895396357",
     "userIcon": ""
   },
   {
-    "name": "WHI",
-    "allyCode": "296395261",
-    "tagIdOnDrop": "695140454995591188",
-    "userIcon": ""
-  },
-  {
     "name": "Woltcman",
     "allyCode": "979924637",
     "tagIdOnDrop": "542008258655944705",
+    "userIcon": ""
+  },
+  {
+    "name": "Xantimans",
+    "allyCode": "363581121",
+    "tagIdOnDrop": "508939210749771807",
     "userIcon": ""
   },
   {
@@ -522,24 +564,6 @@
     "userIcon": ""
   },
   {
-    "name": "Мертвяч",
-    "allyCode": "514968358",
-    "tagIdOnDrop": "621275784266514432",
-    "userIcon": ""
-  },
-  {
-    "name": "мини Гаскойн",
-    "allyCode": "558394519",
-    "tagIdOnDrop": "",
-    "userIcon": ""
-  },
-  {
-    "name": "Отец гаскойн",
-    "allyCode": "976538213",
-    "tagIdOnDrop": "",
-    "userIcon": ""
-  },
-  {
     "name": "ОфигетьКакойУгарныйНик",
     "allyCode": "171917638",
     "tagIdOnDrop": "724567473327964210",
@@ -564,6 +588,18 @@
     "userIcon": ""
   },
   {
+    "name": "Странник",
+    "allyCode": "654654648",
+    "tagIdOnDrop": "756959170179235850",
+    "userIcon": ""
+  },
+  {
+    "name": "Тиаматеур",
+    "allyCode": "378549847",
+    "tagIdOnDrop": "682974575566389248",
+    "userIcon": ""
+  },
+  {
     "name": "ЦАРЬ",
     "allyCode": "756589582",
     "tagIdOnDrop": "860475224058888192",
@@ -573,12 +609,6 @@
     "name": "Чеботкович",
     "allyCode": "545878499",
     "tagIdOnDrop": "673178767073476608",
-    "userIcon": ""
-  },
-  {
-    "name": "Ядерная Raketa",
-    "allyCode": "619821838",
-    "tagIdOnDrop": "698863419801206894",
     "userIcon": ""
   }
 ]

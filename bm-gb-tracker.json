@@ -48,9 +48,15 @@
     "userIcon": ""
   },
   {
-    "name": "Barabulca",
-    "allyCode": "618998633",
-    "tagIdOnDrop": "698867828396130345",
+    "name": "BATYA",
+    "allyCode": "663172958",
+    "tagIdOnDrop": "277097752670765056",
+    "userIcon": ""
+  },
+  {
+    "name": "Brainfox",
+    "allyCode": "342921798",
+    "tagIdOnDrop": "468364431387000844",
     "userIcon": ""
   },
   {
@@ -102,15 +108,33 @@
     "userIcon": ""
   },
   {
+    "name": "DartArch",
+    "allyCode": "175984384",
+    "tagIdOnDrop": "773823344561750017",
+    "userIcon": ""
+  },
+  {
     "name": "Dimouse Lepsart",
     "allyCode": "214919462",
     "tagIdOnDrop": "287090250394894337",
     "userIcon": ""
   },
   {
-    "name": "diVas",
-    "allyCode": "126269273",
-    "tagIdOnDrop": "431753887989628928",
+    "name": "Drinklolze",
+    "allyCode": "869546636",
+    "tagIdOnDrop": "475526175259885572",
+    "userIcon": ""
+  },
+  {
+    "name": "Dux",
+    "allyCode": "725674275",
+    "tagIdOnDrop": "606113801066250240",
+    "userIcon": ""
+  },
+  {
+    "name": "Eklips",
+    "allyCode": "728193298",
+    "tagIdOnDrop": "407173350218268704",
     "userIcon": ""
   },
   {
@@ -135,6 +159,18 @@
     "name": "Fiagdon",
     "allyCode": "395836218",
     "tagIdOnDrop": "374629192026947594",
+    "userIcon": ""
+  },
+  {
+    "name": "Foreboding",
+    "allyCode": "783768182",
+    "tagIdOnDrop": "595601560663490590",
+    "userIcon": ":dancer:"
+  },
+  {
+    "name": "Galavalanog",
+    "allyCode": "839452812",
+    "tagIdOnDrop": "323532236223938561",
     "userIcon": ""
   },
   {
@@ -186,15 +222,21 @@
     "userIcon": ""
   },
   {
-    "name": "Kain",
-    "allyCode": "895872567",
-    "tagIdOnDrop": "368427155337773067",
-    "userIcon": ""
-  },
-  {
     "name": "kDallas",
     "allyCode": "224359887",
     "tagIdOnDrop": "329860547459940352",
+    "userIcon": ""
+  },
+  {
+    "name": "kkwaah",
+    "allyCode": "127912334",
+    "tagIdOnDrop": "893068703191678977",
+    "userIcon": ""
+  },
+  {
+    "name": "Kramola",
+    "allyCode": "468457358",
+    "tagIdOnDrop": "517389645018038273",
     "userIcon": ""
   },
   {
@@ -204,9 +246,27 @@
     "userIcon": ""
   },
   {
+    "name": "Kuzema",
+    "allyCode": "995411749",
+    "tagIdOnDrop": "531850848238567425",
+    "userIcon": ""
+  },
+  {
+    "name": "lBooMl",
+    "allyCode": "946482813",
+    "tagIdOnDrop": "892863850456690708",
+    "userIcon": ""
+  },
+  {
     "name": "Lex Valentain",
     "allyCode": "957588275",
     "tagIdOnDrop": "716806068654702603",
+    "userIcon": ""
+  },
+  {
+    "name": "lsd862",
+    "allyCode": "693264419",
+    "tagIdOnDrop": "578613463052582944",
     "userIcon": ""
   },
   {
@@ -246,9 +306,21 @@
     "userIcon": ""
   },
   {
+    "name": "Mester",
+    "allyCode": "251789586",
+    "tagIdOnDrop": "772168571705884672",
+    "userIcon": ""
+  },
+  {
     "name": "Mister Zurg",
     "allyCode": "739296579",
     "tagIdOnDrop": "269843751470497812",
+    "userIcon": ""
+  },
+  {
+    "name": "Mol Blud",
+    "allyCode": "648357724",
+    "tagIdOnDrop": "598772711984070667",
     "userIcon": ""
   },
   {
@@ -261,12 +333,6 @@
     "name": "msdiles",
     "allyCode": "447888393",
     "tagIdOnDrop": "322831650616508418",
-    "userIcon": ""
-  },
-  {
-    "name": "MyTa6oP",
-    "allyCode": "659328515",
-    "tagIdOnDrop": "529587345058430982",
     "userIcon": ""
   },
   {
@@ -288,6 +354,12 @@
     "userIcon": ""
   },
   {
+    "name": "OLDPLOTNIK",
+    "allyCode": "241958647",
+    "tagIdOnDrop": "520965093064835093",
+    "userIcon": ""
+  },
+  {
     "name": "ORANGE",
     "allyCode": "419617978",
     "tagIdOnDrop": "332136682780491776",
@@ -306,6 +378,12 @@
     "userIcon": ""
   },
   {
+    "name": "PASTINOR",
+    "allyCode": "876691695",
+    "tagIdOnDrop": "388307230245519362",
+    "userIcon": ""
+  },
+  {
     "name": "philsphy",
     "allyCode": "168823924",
     "tagIdOnDrop": "605769137553408000",
@@ -318,27 +396,9 @@
     "userIcon": ""
   },
   {
-    "name": "ProjectManager",
-    "allyCode": "155223871",
-    "tagIdOnDrop": "681915568781393939",
-    "userIcon": ""
-  },
-  {
     "name": "QuArTz",
     "allyCode": "116918649",
     "tagIdOnDrop": "882922890608144404",
-    "userIcon": ""
-  },
-  {
-    "name": "Rangor Jinn",
-    "allyCode": "338941953",
-    "tagIdOnDrop": "749146833221320714",
-    "userIcon": ""
-  },
-  {
-    "name": "RealColonel",
-    "allyCode": "659645678",
-    "tagIdOnDrop": "562207749337907231",
     "userIcon": ""
   },
   {
@@ -348,9 +408,21 @@
     "userIcon": ""
   },
   {
+    "name": "Rustize",
+    "allyCode": "824852434",
+    "tagIdOnDrop": "478782607815999499",
+    "userIcon": ""
+  },
+  {
     "name": "SageGloom",
     "allyCode": "163585992",
     "tagIdOnDrop": "461094818421145600",
+    "userIcon": ""
+  },
+  {
+    "name": "Ser",
+    "allyCode": "537674481",
+    "tagIdOnDrop": "721923951051276329",
     "userIcon": ""
   },
   {
@@ -387,6 +459,12 @@
     "name": "Spinogryz",
     "allyCode": "644411821",
     "tagIdOnDrop": "468089411012263977",
+    "userIcon": ""
+  },
+  {
+    "name": "starter",
+    "allyCode": "611237248",
+    "tagIdOnDrop": "256846360278597632",
     "userIcon": ""
   },
   {
@@ -462,9 +540,9 @@
     "userIcon": ""
   },
   {
-    "name": "Xantimans",
-    "allyCode": "363581121",
-    "tagIdOnDrop": "508939210749771807",
+    "name": "АЕ Vsnet",
+    "allyCode": "979533745",
+    "tagIdOnDrop": "561151132421062678",
     "userIcon": ""
   },
   {
@@ -474,15 +552,15 @@
     "userIcon": ""
   },
   {
-    "name": "Вероника",
-    "allyCode": "842881316",
-    "tagIdOnDrop": "730464942217756823",
-    "userIcon": ":dancer:"
-  },
-  {
     "name": "Владимир",
     "allyCode": "442266152",
     "tagIdOnDrop": "684111210995646488",
+    "userIcon": ""
+  },
+  {
+    "name": "Дед джедай",
+    "allyCode": "463284541",
+    "tagIdOnDrop": "893114617314803803",
     "userIcon": ""
   },
   {
@@ -495,12 +573,6 @@
     "name": "Кенни",
     "allyCode": "716317723",
     "tagIdOnDrop": "391333233138335754",
-    "userIcon": ""
-  },
-  {
-    "name": "Мертвяч",
-    "allyCode": "514968358",
-    "tagIdOnDrop": "621275784266514432",
     "userIcon": ""
   },
   {

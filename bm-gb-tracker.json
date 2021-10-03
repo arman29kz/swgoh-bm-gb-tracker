@@ -109,6 +109,7 @@
   },
   {
     "name": "DartArch",
+    "skip": "true",
     "allyCode": "175984384",
     "tagIdOnDrop": "773823344561750017",
     "userIcon": ""
@@ -558,9 +559,21 @@
     "userIcon": ""
   },
   {
+    "name": "Байзаков",
+    "allyCode": "625187953",
+    "tagIdOnDrop": "713463464718368867",
+    "userIcon": ""
+  },
+  {
     "name": "Владимир",
     "allyCode": "442266152",
     "tagIdOnDrop": "684111210995646488",
+    "userIcon": ""
+  },
+  {
+    "name": "Дарт тиранус",
+    "allyCode": "874462213",
+    "tagIdOnDrop": "829403109302206484",
     "userIcon": ""
   },
   {

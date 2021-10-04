@@ -109,9 +109,8 @@
   },
   {
     "name": "DartArch",
-    "skip": "true",
     "allyCode": "175984384",
-    "tagIdOnDrop": "773823344561750017",
+    "tagIdOnDrop": "",
     "userIcon": ""
   },
   {
@@ -165,7 +164,7 @@
   {
     "name": "Foreboding",
     "allyCode": "783768182",
-    "tagIdOnDrop": "595601560663490590",
+    "tagIdOnDrop": "",
     "userIcon": ":dancer:"
   },
   {
@@ -243,7 +242,7 @@
   {
     "name": "Kramola",
     "allyCode": "468457358",
-    "tagIdOnDrop": "517389645018038273",
+    "tagIdOnDrop": "",
     "userIcon": ""
   },
   {
@@ -351,13 +350,13 @@
   {
     "name": "NetBas",
     "allyCode": "668459796",
-    "tagIdOnDrop": "'603829917594943488",
+    "tagIdOnDrop": "603829917594943488",
     "userIcon": ""
   },
   {
     "name": "NM Bail Writte KZ",
     "allyCode": "825722469",
-    "tagIdOnDrop": "'540113615122989056",
+    "tagIdOnDrop": "540113615122989056",
     "userIcon": ""
   },
   {

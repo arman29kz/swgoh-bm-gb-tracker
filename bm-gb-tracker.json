@@ -54,12 +54,6 @@
     "userIcon": ""
   },
   {
-    "name": "BATYA",
-    "allyCode": "663172958",
-    "tagIdOnDrop": "277097752670765056",
-    "userIcon": ""
-  },
-  {
     "name": "Brainfox",
     "allyCode": "342921798",
     "tagIdOnDrop": "468364431387000844",
@@ -237,18 +231,6 @@
     "name": "Jawser",
     "allyCode": "174768963",
     "tagIdOnDrop": "303283829236301837",
-    "userIcon": ""
-  },
-  {
-    "name": "JunkoZane",
-    "allyCode": "716655561",
-    "tagIdOnDrop": "641199160900452353",
-    "userIcon": ""
-  },
-  {
-    "name": "kDallas",
-    "allyCode": "224359887",
-    "tagIdOnDrop": "329860547459940352",
     "userIcon": ""
   },
   {
@@ -618,12 +600,6 @@
     "userIcon": ""
   },
   {
-    "name": "Алекс",
-    "allyCode": "715539351",
-    "tagIdOnDrop": "492053920416268289",
-    "userIcon": ""
-  },
-  {
     "name": "Байзаков",
     "allyCode": "625187953",
     "tagIdOnDrop": "713463464718368867",
@@ -636,21 +612,9 @@
     "userIcon": ""
   },
   {
-    "name": "Дарт тиранус",
-    "allyCode": "874462213",
-    "tagIdOnDrop": "829403109302206484",
-    "userIcon": ""
-  },
-  {
     "name": "Дед джедай",
     "allyCode": "463284541",
     "tagIdOnDrop": "893114617314803803",
-    "userIcon": ""
-  },
-  {
-    "name": "ЕСА",
-    "allyCode": "568576293",
-    "tagIdOnDrop": "746577463286693960",
     "userIcon": ""
   },
   {
@@ -693,12 +657,6 @@
     "name": "ЦАРЬ",
     "allyCode": "756589582",
     "tagIdOnDrop": "860475224058888192",
-    "userIcon": ""
-  },
-  {
-    "name": "Шлюк USM",
-    "allyCode": "412922945",
-    "tagIdOnDrop": "548467579019067393",
     "userIcon": ""
   }
 ]

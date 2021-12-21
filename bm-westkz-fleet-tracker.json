@@ -63,6 +63,13 @@
     "userIcon": ":flag_ru:"
   },
   {
+    "name": "DrunkenMаster",
+    "allyCode": "972695926",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": "&897088920192426015"
+  },
+  {
     "name": "Ethan",
     "allyCode": "833423514",
     "tagIdOnDrop": "777305860115922984",
@@ -107,13 +114,6 @@
     "tagIdOnClimb": "&799706395766554654"
   },
   {
-    "name": "LordSithsSIDIUS",
-    "allyCode": "843141573",
-    "tagIdOnDrop": "",
-    "userIcon": ":pirate_flag:",
-    "tagIdOnClimb": "&885446981110104064"
-  },
-  {
     "name": "Maciej",
     "allyCode": "334194538",
     "tagIdOnDrop": "686660303131377676",
@@ -133,6 +133,13 @@
     "userIcon": ":flag_se:"
   },
   {
+    "name": "Puppeteer",
+    "allyCode": "843141573",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": "&885446981110104064"
+  },
+  {
     "name": "Red1",
     "allyCode": "945565584",
     "tagIdOnDrop": "381478755056484353",
@@ -150,13 +157,6 @@
     "tagIdOnDrop": "",
     "userIcon": ":pirate_flag:",
     "tagIdOnClimb": "&788831210003496960"
-  },
-  {
-    "name": "Somebody",
-    "allyCode": "972695926",
-    "tagIdOnDrop": "",
-    "userIcon": ":pirate_flag:",
-    "tagIdOnClimb": "&897088920192426015"
   },
   {
     "name": "Son of Inox",

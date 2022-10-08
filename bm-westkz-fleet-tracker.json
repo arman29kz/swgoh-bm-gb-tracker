@@ -84,6 +84,12 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "Foreboding",
+    "allyCode": "783768182",
+    "tagIdOnDrop": "595601560663490590",
+    "userIcon": ":dancer:"
+  },
+  {
     "name": "GG3gotHate",
     "allyCode": "825783663",
     "tagIdOnDrop": "363160503419404290",
